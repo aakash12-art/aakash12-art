@@ -20,9 +20,9 @@ I'm a Full Stack Developer from Bengaluru, India. I love Developing real-world p
 ## 🛠️ Tech Stack & Skills
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=aakash12-art&layout=compact&theme=radical) <!-- Replace with your preferred theme -->
 
-- **Languages**: [e.g., Python, JavaScript, HTML/CSS]
-- **Tools**: [e.g., Git, VS Code, Figma for art]
-- **Frameworks**: [e.g., React, Node.js]
+- **Languages**: Java, React.js, PL/SQL, SQL, MongoDB
+- **Tools**: Git, Netlify, Vercel. 
+- **Frameworks**: React.js, SpringBoot
 
 ## 📊 GitHub Stats
 <div align="center">
